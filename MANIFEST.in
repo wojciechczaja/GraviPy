@@ -1,0 +1,6 @@
+include AUTHORS
+include CHANGES
+include LICENSE
+include README.md
+graft docs
+

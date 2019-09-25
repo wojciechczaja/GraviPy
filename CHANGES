@@ -1,0 +1,14 @@
+GraviPy Changelog
+=================
+
+Here you can see the full list of changes between each GraviPy release.
+
+
+Version 0.2
+-----------
+Some updates needed to work properly with the latest versions of python3 and sympy
+
+
+Version 0.1
+-----------
+First public release.
